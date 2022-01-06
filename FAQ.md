@@ -1,4 +1,4 @@
-#### Are there plans to add support to MAC OS with USB accelerator?
+#### Are there plans to add project-psoenet support to native MAC OS host?
 <details>
  <summary>No</summary> 
  <br>
@@ -9,7 +9,7 @@ If your project does not depends on gstramer pipleline please check this [link](
  
 </details>
 
-#### Are there plans to add support to Windows OS with USB accelerator?
+#### Are there plans to add project-psoenet support to Windows OS host?
 <details>
 <summary>No</summary> 
  <br>
