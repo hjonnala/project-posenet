@@ -1,4 +1,4 @@
-#### Are there plans to add project-posenet support to native MAC OS host?
+#### Are there any plans to add project-posenet support to native MAC OS host?
 <details>
  <summary>No</summary> 
  <br>
@@ -9,7 +9,7 @@ If your project does not depends on gstramer pipleline please check this [link](
  
 </details>
 
-#### Are there plans to add project-posenet support to Windows OS host?
+#### Are there any plans to add project-posenet support to Windows OS host?
 <details>
 <summary>No</summary> 
  <br>
