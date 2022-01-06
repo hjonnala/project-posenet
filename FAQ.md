@@ -6,6 +6,7 @@ If your project does not depends on gstramer pipleline please check this [link](
 
  We would update this query if we are working on adding support to MAC OS.
 </details>
+
 ## Are there plans to add support to Windows OS with USB accelerator?
 <details>
 No, we don't have any plans to add support to Windows. We would update this query if we are working on adding support to Windows.
